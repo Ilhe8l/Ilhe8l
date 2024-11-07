@@ -12,6 +12,8 @@ Meu nome é Guilherme do Carmo Souza. Sou aluno do curso técnico em informátic
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) **JavaScript**
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) **C++**
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) **SQL**
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) **PHP**
+- ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) **Kotlin**
 
 ### Tecnologias e Ferramentas
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) **PostgreSQL**
