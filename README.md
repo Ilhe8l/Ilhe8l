@@ -1,5 +1,4 @@
-
-<h2 align="left">Olá 👋! Meu nome é Guilherme do Carmo Souza e sou estudante de Informática no Instituto Federal do Espírito Santo (IFES), campus Serra.</h2>
+<h2 align="center">Olá 👋! Meu nome é Guilherme do Carmo Souza e sou estudante de Informática no Instituto Federal do Espírito Santo (IFES), campus Serra.</h2>
 
 ###
 
@@ -10,7 +9,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Logo do Python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Logo do Java" />
