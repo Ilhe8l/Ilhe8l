@@ -1,36 +1,13 @@
-<h2 align="center">Olá 👋! Meu nome é Guilherme do Carmo Souza e sou estudante de Informática no Instituto Federal do Espírito Santo (IFES), campus Serra.</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilhe8l&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-BR&hide_border=false" height="150" alt="Gráfico de estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilhe8l&locale=pt-BR&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Gráfico de linguagens" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=520&lines=Bem-vindo+ao+meu+perfil...;..............;...............;..................;.........;é+só+isso+mesmo" />
+
+  <br><br>
+
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ilhe8l&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhe8l&theme=vue-dark&hide_border=true" />
+
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhe8l&theme=vue-dark&layout=compact&hide_border=true" />
+
 </div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Logo do Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Logo do Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="Logo do JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="Logo do C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="Logo do SQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="Logo do PHP" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Logo do Kotlin" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="Logo do React.js" />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ilhe8l/ilhe8l/output/snake.svg" alt="Animação de cobra" />
-
-###
