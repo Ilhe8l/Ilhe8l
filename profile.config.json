@@ -1,0 +1,27 @@
+{
+  "username": "ilhe8l",
+  "style": "terminal",
+  "styleText": "",
+  "sections": {
+    "ascii": {
+      "enabled": true,
+      "text": "opa, bão?",
+      "font": "Standard",
+      "showCats": false
+    },
+    "stats": {
+      "enabled": true,
+      "showCommits": true,
+      "showStars": false,
+      "showFollowers": false
+    },
+    "languages": {
+      "enabled": true,
+      "topN": 3
+    },
+    "activity": {
+      "enabled": true,
+      "limit": 5
+    }
+  }
+}
