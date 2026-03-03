@@ -15,11 +15,11 @@
 └────────────────────────────────┘
 
 ┌ Activity ─────────────────────────────── ┐  ┌ Stats ──── ┐
-│ Push        Ilhe8l/8bit-volleyball       │  │ Commits 85 │
-│ PullRequest Eduardo2006g/8bit-volleyball │  └────────────┘
+│ PullRequest Eduardo2006g/8bit-volleyball │  │ Commits 89 │
+│ Push        Ilhe8l/8bit-volleyball       │  └────────────┘
+│ PullRequest Eduardo2006g/8bit-volleyball │
 │ Push        Ilhe8l/8bit-volleyball       │
 │ Fork        Eduardo2006g/8bit-volleyball │
-│ Push        Ilhe8l/Ilhe8l                │
 └──────────────────────────────────────────┘
 ```
 <!-- END_SECTION:style -->
