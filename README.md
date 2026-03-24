@@ -9,17 +9,17 @@
 
 
 ┌ Languages ──────────────────── ┐
-│ JavaScript ███████░░░░░  56.1% │
-│ Python     ██░░░░░░░░░░  20.0% │
-│ Vue        ██░░░░░░░░░░  16.6% │
+│ JavaScript ███████░░░░░  57.3% │
+│ Python     ██░░░░░░░░░░  18.4% │
+│ Vue        ██░░░░░░░░░░  17.0% │
 └────────────────────────────────┘
 
-┌ Activity ──────────────────────────────────────── ┐  ┌ Stats ──── ┐
-│ Create            Ilhe8l/nexus-rag-python         │  │ Commits 92 │
-│ Push              Ilhe8l/multi-agent-orchestrator │  └────────────┘
-│ Push              Ilhe8l/multi-agent-orchestrator │
-│ PullRequestReview Ilhe8l/multi-agent-orchestrator │
-│ PullRequest       Eduardo2006g/8bit-volleyball    │
-└───────────────────────────────────────────────────┘
+┌ Activity ───────────────────── ┐  ┌ Stats ──── ┐
+│ Issues Ilhe8l/nexus-rag-python │  │ Commits 92 │
+│ Issues Ilhe8l/nexus-rag-python │  └────────────┘
+│ Issues Ilhe8l/nexus-rag-python │
+│ Issues Ilhe8l/nexus-rag-python │
+│ Create Ilhe8l/nexus-rag-python │
+└────────────────────────────────┘
 ```
 <!-- END_SECTION:style -->
