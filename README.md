@@ -9,17 +9,17 @@
 
 
 ┌ Languages ──────────────────── ┐
-│ JavaScript ██████░░░░░░  51.9% │
-│ Python     ███░░░░░░░░░  25.6% │
-│ Vue        ██░░░░░░░░░░  15.4% │
+│ JavaScript ███████░░░░░  57.4% │
+│ Python     ██░░░░░░░░░░  17.7% │
+│ Vue        ██░░░░░░░░░░  17.0% │
 └────────────────────────────────┘
 
-┌ Activity ─────────── ┐  ┌ Stats ──── ┐
-│ Push Ilhe8l/sqlgraph │  │ Commits 91 │
-│ Push Ilhe8l/sqlgraph │  └────────────┘
-│ Push Ilhe8l/sqlgraph │
-│ Push Ilhe8l/sqlgraph │
-│ Push Ilhe8l/sqlgraph │
-└──────────────────────┘
+┌ Activity ───────────────────────────────────────── ┐  ┌ Stats ──── ┐
+│ Push                     Ilhe8l/portable-mc-server │  │ Commits 85 │
+│ PullRequest              Ilhe8l/portable-mc-server │  └────────────┘
+│ PullRequestReview        Ilhe8l/portable-mc-server │
+│ PullRequestReview        Ilhe8l/portable-mc-server │
+│ PullRequestReviewComment Ilhe8l/portable-mc-server │
+└────────────────────────────────────────────────────┘
 ```
 <!-- END_SECTION:style -->
