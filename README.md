@@ -14,12 +14,12 @@
 │ Vue        ██░░░░░░░░░░  17.0% │
 └────────────────────────────────┘
 
-┌ Activity ───────────────────────────────────────── ┐  ┌ Stats ──── ┐
-│ Push                     Ilhe8l/portable-mc-server │  │ Commits 85 │
-│ PullRequest              Ilhe8l/portable-mc-server │  └────────────┘
-│ PullRequestReview        Ilhe8l/portable-mc-server │
-│ PullRequestReview        Ilhe8l/portable-mc-server │
-│ PullRequestReviewComment Ilhe8l/portable-mc-server │
-└────────────────────────────────────────────────────┘
+┌ Activity ────────────────────────────────── ┐  ┌ Stats ──── ┐
+│ Watch             swadhinsekhar/books       │  │ Commits 85 │
+│ Push              Ilhe8l/portable-mc-server │  └────────────┘
+│ PullRequest       Ilhe8l/portable-mc-server │
+│ PullRequestReview Ilhe8l/portable-mc-server │
+│ PullRequestReview Ilhe8l/portable-mc-server │
+└─────────────────────────────────────────────┘
 ```
 <!-- END_SECTION:style -->
