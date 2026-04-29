@@ -15,10 +15,10 @@
 └────────────────────────────────┘
 
 ┌ Activity ────────────────────────────────── ┐  ┌ Stats ──── ┐
-│ Watch             swadhinsekhar/books       │  │ Commits 85 │
-│ Push              Ilhe8l/portable-mc-server │  └────────────┘
+│ Watch             bayasdev/envycontrol      │  │ Commits 85 │
+│ Watch             swadhinsekhar/books       │  └────────────┘
+│ Push              Ilhe8l/portable-mc-server │
 │ PullRequest       Ilhe8l/portable-mc-server │
-│ PullRequestReview Ilhe8l/portable-mc-server │
 │ PullRequestReview Ilhe8l/portable-mc-server │
 └─────────────────────────────────────────────┘
 ```
