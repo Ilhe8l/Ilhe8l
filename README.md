@@ -14,12 +14,8 @@
 │ Vue        ██░░░░░░░░░░  17.0% │
 └────────────────────────────────┘
 
-┌ Activity ────────────────────────────────── ┐  ┌ Stats ──── ┐
-│ Watch             bayasdev/envycontrol      │  │ Commits 85 │
-│ Watch             swadhinsekhar/books       │  └────────────┘
-│ Push              Ilhe8l/portable-mc-server │
-│ PullRequest       Ilhe8l/portable-mc-server │
-│ PullRequestReview Ilhe8l/portable-mc-server │
-└─────────────────────────────────────────────┘
+┌ Stats ──── ┐
+│ Commits 85 │
+└────────────┘
 ```
 <!-- END_SECTION:style -->
