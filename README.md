@@ -14,12 +14,10 @@
 │ Vue        ██░░░░░░░░░░  16.3% │
 └────────────────────────────────┘
 
-┌ Activity ────────────────────────────────── ┐  ┌ Stats ──── ┐
-│ Push        Ilhe8l/multi-agent-orchestrator │  │ Commits 91 │
-│ Watch       bayasdev/envycontrol            │  └────────────┘
-│ Watch       swadhinsekhar/books             │
-│ Push        Ilhe8l/portable-mc-server       │
-│ PullRequest Ilhe8l/portable-mc-server       │
-└─────────────────────────────────────────────┘
+┌ Activity ──────────────────────────── ┐  ┌ Stats ──── ┐
+│ Push  Ilhe8l/multi-agent-orchestrator │  │ Commits 86 │
+│ Watch bayasdev/envycontrol            │  └────────────┘
+│ Watch swadhinsekhar/books             │
+└───────────────────────────────────────┘
 ```
 <!-- END_SECTION:style -->
