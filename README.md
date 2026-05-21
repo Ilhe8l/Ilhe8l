@@ -14,12 +14,12 @@
 │ Vue        ██░░░░░░░░░░  16.2% │
 └────────────────────────────────┘
 
-┌ Activity ──────────────────────────── ┐  ┌ Stats ──── ┐
-│ Push  Ilhe8l/prometheus-health-check  │  │ Commits 88 │
-│ Push  Ilhe8l/prometheus-health-check  │  └────────────┘
-│ Push  Ilhe8l/multi-agent-orchestrator │
-│ Watch bayasdev/envycontrol            │
-│ Watch swadhinsekhar/books             │
-└───────────────────────────────────────┘
+┌ Activity ────────────────────────────────── ┐  ┌ Stats ──── ┐
+│ Watch awesome-selfhosted/awesome-selfhosted │  │ Commits 88 │
+│ Watch langchain-ai/langchain                │  └────────────┘
+│ Push  Ilhe8l/prometheus-health-check        │
+│ Push  Ilhe8l/prometheus-health-check        │
+│ Push  Ilhe8l/multi-agent-orchestrator       │
+└─────────────────────────────────────────────┘
 ```
 <!-- END_SECTION:style -->
