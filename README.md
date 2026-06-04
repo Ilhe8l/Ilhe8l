@@ -15,11 +15,11 @@
 └────────────────────────────────┘
 
 ┌ Activity ────────────────────────────────── ┐  ┌ Stats ──── ┐
-│ Watch awesome-selfhosted/awesome-selfhosted │  │ Commits 89 │
-│ Watch langchain-ai/langchain                │  └────────────┘
+│ Watch pewdiepie-archdaemon/odysseus         │  │ Commits 89 │
+│ Watch awesome-selfhosted/awesome-selfhosted │  └────────────┘
+│ Watch langchain-ai/langchain                │
 │ Push  Ilhe8l/prometheus-health-check        │
 │ Push  Ilhe8l/prometheus-health-check        │
-│ Push  Ilhe8l/multi-agent-orchestrator       │
 └─────────────────────────────────────────────┘
 ```
 <!-- END_SECTION:style -->
