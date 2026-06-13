@@ -19,7 +19,6 @@
 │ Watch pewdiepie-archdaemon/odysseus         │  └────────────┘
 │ Watch awesome-selfhosted/awesome-selfhosted │
 │ Watch langchain-ai/langchain                │
-│ Push  Ilhe8l/prometheus-health-check        │
 └─────────────────────────────────────────────┘
 ```
 <!-- END_SECTION:style -->
