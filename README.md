@@ -15,8 +15,9 @@
 └────────────────────────────────┘
 
 ┌ Activity ────────────────────────────────── ┐  ┌ Stats ──── ┐
-│ Watch langchain-ai/deepagents               │  │ Commits 89 │
-│ Watch pewdiepie-archdaemon/odysseus         │  └────────────┘
+│ Watch CharlesQ9/Self-Evolving-Agents        │  │ Commits 89 │
+│ Watch langchain-ai/deepagents               │  └────────────┘
+│ Watch pewdiepie-archdaemon/odysseus         │
 │ Watch awesome-selfhosted/awesome-selfhosted │
 │ Watch langchain-ai/langchain                │
 └─────────────────────────────────────────────┘
