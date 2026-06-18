@@ -15,11 +15,11 @@
 └────────────────────────────────┘
 
 ┌ Activity ────────────────────────────────── ┐  ┌ Stats ──── ┐
-│ Watch CharlesQ9/Self-Evolving-Agents        │  │ Commits 89 │
-│ Watch langchain-ai/deepagents               │  └────────────┘
+│ Watch DietrichGebert/ponytail               │  │ Commits 89 │
+│ Watch CharlesQ9/Self-Evolving-Agents        │  └────────────┘
+│ Watch langchain-ai/deepagents               │
 │ Watch pewdiepie-archdaemon/odysseus         │
 │ Watch awesome-selfhosted/awesome-selfhosted │
-│ Watch langchain-ai/langchain                │
 └─────────────────────────────────────────────┘
 ```
 <!-- END_SECTION:style -->
