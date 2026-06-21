@@ -14,12 +14,11 @@
 │ Vue        ██░░░░░░░░░░  16.2% │
 └────────────────────────────────┘
 
-┌ Activity ────────────────────────────────── ┐  ┌ Stats ──── ┐
-│ Watch DietrichGebert/ponytail               │  │ Commits 89 │
-│ Watch CharlesQ9/Self-Evolving-Agents        │  └────────────┘
-│ Watch langchain-ai/deepagents               │
-│ Watch pewdiepie-archdaemon/odysseus         │
-│ Watch awesome-selfhosted/awesome-selfhosted │
-└─────────────────────────────────────────────┘
+┌ Activity ─────────────────────────── ┐  ┌ Stats ──── ┐
+│ Watch DietrichGebert/ponytail        │  │ Commits 89 │
+│ Watch CharlesQ9/Self-Evolving-Agents │  └────────────┘
+│ Watch langchain-ai/deepagents        │
+│ Watch pewdiepie-archdaemon/odysseus  │
+└──────────────────────────────────────┘
 ```
 <!-- END_SECTION:style -->
