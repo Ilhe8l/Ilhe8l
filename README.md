@@ -19,7 +19,6 @@
 │ Watch DietrichGebert/ponytail        │  └────────────┘
 │ Watch CharlesQ9/Self-Evolving-Agents │
 │ Watch langchain-ai/deepagents        │
-│ Watch pewdiepie-archdaemon/odysseus  │
 └──────────────────────────────────────┘
 ```
 <!-- END_SECTION:style -->
