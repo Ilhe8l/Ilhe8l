@@ -15,8 +15,9 @@
 └────────────────────────────────┘
 
 ┌ Activity ─────────────────────────── ┐  ┌ Stats ──── ┐
-│ Watch calesthio/OpenMontage          │  │ Commits 79 │
-│ Watch DietrichGebert/ponytail        │  └────────────┘
+│ Watch anthropics/skills              │  │ Commits 79 │
+│ Watch calesthio/OpenMontage          │  └────────────┘
+│ Watch DietrichGebert/ponytail        │
 │ Watch CharlesQ9/Self-Evolving-Agents │
 │ Watch langchain-ai/deepagents        │
 └──────────────────────────────────────┘
