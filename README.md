@@ -19,7 +19,6 @@
 │ Watch calesthio/OpenMontage          │  └────────────┘
 │ Watch DietrichGebert/ponytail        │
 │ Watch CharlesQ9/Self-Evolving-Agents │
-│ Watch langchain-ai/deepagents        │
 └──────────────────────────────────────┘
 ```
 <!-- END_SECTION:style -->
