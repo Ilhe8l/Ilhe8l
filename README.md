@@ -15,8 +15,9 @@
 └────────────────────────────────┘
 
 ┌ Activity ─────────────────────────── ┐  ┌ Stats ──── ┐
-│ Watch anthropics/skills              │  │ Commits 79 │
-│ Watch calesthio/OpenMontage          │  └────────────┘
+│ Watch ozencb/couchtube               │  │ Commits 79 │
+│ Watch anthropics/skills              │  └────────────┘
+│ Watch calesthio/OpenMontage          │
 │ Watch DietrichGebert/ponytail        │
 │ Watch CharlesQ9/Self-Evolving-Agents │
 └──────────────────────────────────────┘
