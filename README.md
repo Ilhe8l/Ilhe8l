@@ -14,12 +14,12 @@
 │ Vue        ██░░░░░░░░░░  16.2% │
 └────────────────────────────────┘
 
-┌ Activity ─────────────────────────── ┐  ┌ Stats ──── ┐
-│ Watch ozencb/couchtube               │  │ Commits 79 │
-│ Watch anthropics/skills              │  └────────────┘
-│ Watch calesthio/OpenMontage          │
-│ Watch DietrichGebert/ponytail        │
-│ Watch CharlesQ9/Self-Evolving-Agents │
-└──────────────────────────────────────┘
+┌ Activity ──────────────────── ┐  ┌ Stats ──── ┐
+│ Watch slidevjs/slidev         │  │ Commits 79 │
+│ Watch ozencb/couchtube        │  └────────────┘
+│ Watch anthropics/skills       │
+│ Watch calesthio/OpenMontage   │
+│ Watch DietrichGebert/ponytail │
+└───────────────────────────────┘
 ```
 <!-- END_SECTION:style -->
