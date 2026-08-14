@@ -14,9 +14,8 @@
 │ Vue        ██░░░░░░░░░░  16.2% │
 └────────────────────────────────┘
 
-┌ Activity ───────────── ┐  ┌ Stats ──── ┐
-│ Watch slidevjs/slidev  │  │ Commits 79 │
-│ Watch ozencb/couchtube │  └────────────┘
-└────────────────────────┘
+┌ Activity ──────────── ┐  ┌ Stats ──── ┐
+│ Watch slidevjs/slidev │  │ Commits 79 │
+└───────────────────────┘  └────────────┘
 ```
 <!-- END_SECTION:style -->
