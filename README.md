@@ -9,13 +9,14 @@
 
 
 ┌ Languages ──────────────────── ┐
-│ JavaScript ███████░░░░░  54.5% │
-│ Python     ███░░░░░░░░░  21.8% │
-│ Vue        ██░░░░░░░░░░  16.2% │
+│ JavaScript █████████░░░  74.4% │
+│ Python     █░░░░░░░░░░░   9.9% │
+│ Vue        █░░░░░░░░░░░   7.4% │
 └────────────────────────────────┘
 
 ┌ Activity ─────────────────────── ┐  ┌ Stats ──── ┐
-│ Watch arvids-unavailable/openGym │  │ Commits 79 │
-└──────────────────────────────────┘  └────────────┘
+│ Fork  arvids-unavailable/openGym │  │ Commits 79 │
+│ Watch arvids-unavailable/openGym │  └────────────┘
+└──────────────────────────────────┘
 ```
 <!-- END_SECTION:style -->
