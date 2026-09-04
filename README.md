@@ -15,8 +15,11 @@
 └────────────────────────────────┘
 
 ┌ Activity ─────────────────────── ┐  ┌ Stats ──── ┐
-│ Fork  arvids-unavailable/openGym │  │ Commits 79 │
-│ Watch arvids-unavailable/openGym │  └────────────┘
+│ Watch mattpocock/skills          │  │ Commits 79 │
+│ Watch eosphoros-ai/DB-GPT        │  └────────────┘
+│ Watch wbbeyourself/MAC-SQL       │
+│ Fork  arvids-unavailable/openGym │
+│ Watch arvids-unavailable/openGym │
 └──────────────────────────────────┘
 ```
 <!-- END_SECTION:style -->
