@@ -15,11 +15,11 @@
 └────────────────────────────────┘
 
 ┌ Activity ─────────────────────── ┐  ┌ Stats ──── ┐
-│ Watch mattpocock/skills          │  │ Commits 79 │
-│ Watch eosphoros-ai/DB-GPT        │  └────────────┘
+│ Watch OZORDI/LibertyRecomp       │  │ Commits 79 │
+│ Watch mattpocock/skills          │  └────────────┘
+│ Watch eosphoros-ai/DB-GPT        │
 │ Watch wbbeyourself/MAC-SQL       │
 │ Fork  arvids-unavailable/openGym │
-│ Watch arvids-unavailable/openGym │
 └──────────────────────────────────┘
 ```
 <!-- END_SECTION:style -->
