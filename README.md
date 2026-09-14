@@ -15,7 +15,7 @@
 └────────────────────────────────┘
 
 ┌ Activity ─────────────────────── ┐  ┌ Stats ──── ┐
-│ Watch OZORDI/LibertyRecomp       │  │ Commits 79 │
+│ Watch OZORDI/LibertyRecomp       │  │ Commits 77 │
 │ Watch mattpocock/skills          │  └────────────┘
 │ Watch eosphoros-ai/DB-GPT        │
 │ Watch wbbeyourself/MAC-SQL       │
