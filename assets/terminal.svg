@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="398" viewBox="0 0 960 398" role="img" aria-labelledby="title desc">
+  <title id="title">Guilherme Souza — AI and backend developer</title>
+  <desc id="desc">Terminal-style profile featuring work on EDITE and Oráculo. Latest public commit: leds-conectafapes/workshop-whatsapp-agents  ·  22 May 2026.</desc>
+  <rect x="1" y="1" width="958" height="396" rx="16" fill="#0d1117" stroke="#303d4d" stroke-width="2"/>
+  <path d="M17 1h926a16 16 0 0 1 16 16v34H1V17A16 16 0 0 1 17 1Z" fill="#161f2a"/>
+  <path d="M1 51h958" stroke="#303d4d"/>
+  <circle cx="28" cy="26" r="6" fill="#f7768e"/>
+  <circle cx="49" cy="26" r="6" fill="#e0af68"/>
+  <circle cx="70" cy="26" r="6" fill="#9ece6a"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace">
+    <text x="480" y="31" text-anchor="middle" font-size="14" fill="#95a6bb">guilherme@github: ~</text>
+    <text x="36" y="92" font-size="16" fill="#7dcfff">$ whoami</text>
+    <text x="36" y="135" font-size="29" font-weight="700" fill="#edf2f7">Guilherme Souza</text>
+    <text x="36" y="166" font-size="16" fill="#b9c5d2">AI &amp; backend developer  /  Information Systems student at IFES</text>
+    <path d="M36 190h888" stroke="#27384a"/>
+    <text x="36" y="222" font-size="16" fill="#7dcfff">$ current_work</text>
+    <text x="36" y="257" font-size="16" fill="#9ece6a">EDITE</text>
+    <text x="139" y="257" font-size="16" fill="#d4dde7">AI assistant for FAPES</text>
+    <text x="36" y="288" font-size="16" fill="#9ece6a">ORÁCULO</text>
+    <text x="139" y="288" font-size="16" fill="#d4dde7">internal natural-language-to-SQL backend</text>
+    <path d="M36 309h888" stroke="#27384a"/>
+    <text x="36" y="342" font-size="16" fill="#7dcfff">$ latest_public_commit</text>
+    <text x="36" y="374" font-size="16" fill="#d4dde7">leds-conectafapes/workshop-whatsapp-agents  ·  22 May 2026</text>
+    <text x="914" y="374" text-anchor="end" font-size="16" fill="#9ece6a">▌</text>
+  </g>
+</svg>

@@ -1,18 +1,11 @@
-```text
-guilherme@github:~$ whoami
-Guilherme Souza
-AI agents & backend engineering · LEDS / IFES
+![A terminal introducing Guilherme Souza and his current AI and backend work](./assets/terminal.svg)
 
-guilherme@github:~$ cat focus.txt
-Python APIs · LangGraph · Redis · LLM observability
-```
-
-I build AI agents and the backend systems that make them useful. At [LEDS / IFES](https://github.com/leds-conectafapes), I collaborate on EDITE, an AI assistant for FAPES. Much of that work happens in private organization repositories.
+I'm pursuing a bachelor's degree in Information Systems at IFES and working with AI agents and backend development at [LEDS](https://github.com/leds-conectafapes). I contribute to **EDITE**, an AI assistant for FAPES, and to the backend of **Oráculo**, an internal natural-language-to-SQL tool for FAPES. Most of this work happens in private organization repositories.
 
 ### Selected work
 
 - **[plan-bot](https://github.com/Ilhe8l/plan-bot)** — Discord-based AI agents that turn backlogs into sprint plans and GitHub issues.
-- **[langfuse-api](https://github.com/Ilhe8l/langfuse-api)** — An API for cost, token, and latency metrics, with background processing and Redis caching.
 - **[multi-agent-orchestrator](https://github.com/Ilhe8l/multi-agent-orchestrator)** — LangGraph orchestration for specialized agents behind a FastAPI service.
+- **[workshop-whatsapp-agents](https://github.com/leds-conectafapes/workshop-whatsapp-agents)** — Workshop materials on LangGraph agents and the WhatsApp Cloud API, with notebooks, tools, memory, and webhook examples.
 
 Contact: [email](mailto:guilhermesouza.box@gmail.com) · [LinkedIn](https://www.linkedin.com/in/guilherme8l/)
