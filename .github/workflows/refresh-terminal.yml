@@ -2,8 +2,8 @@ name: Refresh terminal card
 
 on:
   schedule:
-    # Atualiza o cartão uma vez ao dia; só cria commit quando houver mudança.
-    - cron: '23 6 * * *'
+    # Atualiza o cartão a cada seis horas; só cria commit quando houver mudança.
+    - cron: '23 */6 * * *'
   workflow_dispatch:
   push:
     branches: [main]
