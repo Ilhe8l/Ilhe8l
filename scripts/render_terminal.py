@@ -45,7 +45,8 @@ def github(url: str, payload: dict | None = None) -> dict:
 
 
 def fetch_stats() -> dict:
-    # A API GraphQL exige token; no workflow o GITHUB_TOKEN já basta.
+    # Só um token do próprio usuário enxerga as contribuições em repositórios privados;
+    # com o GITHUB_TOKEN do workflow elas ficam de fora dos totais.
     result = github(
         "https://api.github.com/graphql",
         {"query": STATS_QUERY, "variables": {"login": USER, "repo": FEATURED}},
