@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640" role="img" aria-labelledby="title desc">
   <title id="title">Guilherme Souza, AI and backend developer</title>
-  <desc id="desc">Terminal-style profile featuring Eva, a local voice assistant, plus work on EDITE and Oráculo. Last year: 1,658 contributions · 130 commits · 15 PRs · 12 repos. Latest public commit: Ilhe8l/Ilhe8l · 22 Oct 2026.</desc>
+  <desc id="desc">Terminal-style profile featuring Eva, a local voice assistant, plus work on EDITE and Oráculo. Last year: 1,423 contributions · 134 commits · 9 PRs · 11 repos. Latest public commit: Ilhe8l/matiz · 26 Oct 2026.</desc>
   <rect x="1" y="1" width="958" height="638" rx="16" fill="#0d1117" stroke="#303d4d" stroke-width="2"/>
   <path d="M17 1h926a16 16 0 0 1 16 16v34H1V17A16 16 0 0 1 17 1Z" fill="#161f2a"/>
   <path d="M1 51h958" stroke="#303d4d"/>
@@ -31,63 +31,63 @@
     <path d="M36 423h888" stroke="#27384a"/>
 
     <text x="36" y="453" fill="#7dcfff">$ git stats --last-year</text>
-    <text x="36" y="483" fill="#d4dde7">1,658 contributions · 130 commits · 15 PRs · 12 repos</text>
+    <text x="36" y="483" fill="#d4dde7">1,423 contributions · 134 commits · 9 PRs · 11 repos</text>
     <rect x="36" y="529" width="13" height="3" rx="1.5" fill="#27384a"/>
     <rect x="53" y="529" width="13" height="3" rx="1.5" fill="#4f7a3a"/>
     <rect x="70" y="525" width="13" height="7" rx="1.5" fill="#4f7a3a"/>
-    <rect x="87" y="509" width="13" height="23" rx="1.5" fill="#9ece6a"/>
-    <rect x="104" y="522" width="13" height="10" rx="1.5" fill="#4f7a3a"/>
-    <rect x="121" y="515" width="13" height="17" rx="1.5" fill="#4f7a3a"/>
-    <rect x="138" y="529" width="13" height="3" rx="1.5" fill="#4f7a3a"/>
+    <rect x="87" y="526" width="13" height="6" rx="1.5" fill="#4f7a3a"/>
+    <rect x="104" y="526" width="13" height="6" rx="1.5" fill="#4f7a3a"/>
+    <rect x="121" y="514" width="13" height="18" rx="1.5" fill="#4f7a3a"/>
+    <rect x="138" y="528" width="13" height="4" rx="1.5" fill="#4f7a3a"/>
     <rect x="155" y="529" width="13" height="3" rx="1.5" fill="#27384a"/>
     <rect x="172" y="529" width="13" height="3" rx="1.5" fill="#27384a"/>
     <rect x="189" y="529" width="13" height="3" rx="1.5" fill="#27384a"/>
-    <rect x="206" y="523" width="13" height="9" rx="1.5" fill="#4f7a3a"/>
-    <rect x="223" y="527" width="13" height="5" rx="1.5" fill="#4f7a3a"/>
-    <rect x="240" y="521" width="13" height="11" rx="1.5" fill="#4f7a3a"/>
-    <rect x="257" y="529" width="13" height="3" rx="1.5" fill="#4f7a3a"/>
+    <rect x="206" y="526" width="13" height="6" rx="1.5" fill="#4f7a3a"/>
+    <rect x="223" y="528" width="13" height="4" rx="1.5" fill="#4f7a3a"/>
+    <rect x="240" y="526" width="13" height="6" rx="1.5" fill="#4f7a3a"/>
+    <rect x="257" y="528" width="13" height="4" rx="1.5" fill="#4f7a3a"/>
     <rect x="274" y="520" width="13" height="12" rx="1.5" fill="#4f7a3a"/>
     <rect x="291" y="523" width="13" height="9" rx="1.5" fill="#4f7a3a"/>
     <rect x="308" y="519" width="13" height="13" rx="1.5" fill="#4f7a3a"/>
-    <rect x="325" y="521" width="13" height="11" rx="1.5" fill="#4f7a3a"/>
+    <rect x="325" y="520" width="13" height="12" rx="1.5" fill="#4f7a3a"/>
     <rect x="342" y="527" width="13" height="5" rx="1.5" fill="#4f7a3a"/>
     <rect x="359" y="527" width="13" height="5" rx="1.5" fill="#4f7a3a"/>
     <rect x="376" y="519" width="13" height="13" rx="1.5" fill="#4f7a3a"/>
-    <rect x="393" y="512" width="13" height="20" rx="1.5" fill="#9ece6a"/>
-    <rect x="410" y="517" width="13" height="15" rx="1.5" fill="#4f7a3a"/>
-    <rect x="427" y="529" width="13" height="3" rx="1.5" fill="#4f7a3a"/>
+    <rect x="393" y="511" width="13" height="21" rx="1.5" fill="#9ece6a"/>
+    <rect x="410" y="516" width="13" height="16" rx="1.5" fill="#4f7a3a"/>
+    <rect x="427" y="529" width="13" height="3" rx="1.5" fill="#27384a"/>
     <rect x="444" y="529" width="13" height="3" rx="1.5" fill="#27384a"/>
     <rect x="461" y="529" width="13" height="3" rx="1.5" fill="#4f7a3a"/>
-    <rect x="478" y="507" width="13" height="25" rx="1.5" fill="#9ece6a"/>
-    <rect x="495" y="496" width="13" height="36" rx="1.5" fill="#9ece6a"/>
+    <rect x="478" y="506" width="13" height="26" rx="1.5" fill="#9ece6a"/>
+    <rect x="495" y="507" width="13" height="25" rx="1.5" fill="#9ece6a"/>
     <rect x="512" y="528" width="13" height="4" rx="1.5" fill="#4f7a3a"/>
-    <rect x="529" y="519" width="13" height="13" rx="1.5" fill="#4f7a3a"/>
+    <rect x="529" y="518" width="13" height="14" rx="1.5" fill="#4f7a3a"/>
     <rect x="546" y="529" width="13" height="3" rx="1.5" fill="#4f7a3a"/>
     <rect x="563" y="522" width="13" height="10" rx="1.5" fill="#4f7a3a"/>
     <rect x="580" y="522" width="13" height="10" rx="1.5" fill="#4f7a3a"/>
     <rect x="597" y="529" width="13" height="3" rx="1.5" fill="#27384a"/>
     <rect x="614" y="529" width="13" height="3" rx="1.5" fill="#27384a"/>
     <rect x="631" y="529" width="13" height="3" rx="1.5" fill="#27384a"/>
-    <rect x="648" y="522" width="13" height="10" rx="1.5" fill="#4f7a3a"/>
-    <rect x="665" y="513" width="13" height="19" rx="1.5" fill="#9ece6a"/>
+    <rect x="648" y="521" width="13" height="11" rx="1.5" fill="#4f7a3a"/>
+    <rect x="665" y="512" width="13" height="20" rx="1.5" fill="#9ece6a"/>
     <rect x="682" y="526" width="13" height="6" rx="1.5" fill="#4f7a3a"/>
     <rect x="699" y="525" width="13" height="7" rx="1.5" fill="#4f7a3a"/>
-    <rect x="716" y="525" width="13" height="7" rx="1.5" fill="#4f7a3a"/>
-    <rect x="733" y="512" width="13" height="20" rx="1.5" fill="#9ece6a"/>
+    <rect x="716" y="524" width="13" height="8" rx="1.5" fill="#4f7a3a"/>
+    <rect x="733" y="511" width="13" height="21" rx="1.5" fill="#9ece6a"/>
     <rect x="750" y="511" width="13" height="21" rx="1.5" fill="#9ece6a"/>
     <rect x="767" y="526" width="13" height="6" rx="1.5" fill="#4f7a3a"/>
     <rect x="784" y="529" width="13" height="3" rx="1.5" fill="#4f7a3a"/>
     <rect x="801" y="526" width="13" height="6" rx="1.5" fill="#4f7a3a"/>
-    <rect x="818" y="503" width="13" height="29" rx="1.5" fill="#9ece6a"/>
-    <rect x="835" y="504" width="13" height="28" rx="1.5" fill="#9ece6a"/>
-    <rect x="852" y="497" width="13" height="35" rx="1.5" fill="#9ece6a"/>
-    <rect x="869" y="518" width="13" height="14" rx="1.5" fill="#4f7a3a"/>
-    <rect x="886" y="515" width="13" height="17" rx="1.5" fill="#4f7a3a"/>
-    <rect x="903" y="519" width="13" height="13" rx="1.5" fill="#4f7a3a"/>
+    <rect x="818" y="502" width="13" height="30" rx="1.5" fill="#9ece6a"/>
+    <rect x="835" y="503" width="13" height="29" rx="1.5" fill="#9ece6a"/>
+    <rect x="852" y="496" width="13" height="36" rx="1.5" fill="#9ece6a"/>
+    <rect x="869" y="517" width="13" height="15" rx="1.5" fill="#4f7a3a"/>
+    <rect x="886" y="514" width="13" height="18" rx="1.5" fill="#4f7a3a"/>
+    <rect x="903" y="518" width="13" height="14" rx="1.5" fill="#4f7a3a"/>
     <path d="M36 551h888" stroke="#27384a"/>
 
     <text x="36" y="581" fill="#7dcfff">$ git log -1 --public</text>
-    <text x="36" y="611" fill="#e0af68" xml:space="preserve">Ilhe8l/Ilhe8l · 22 Oct 2026  <tspan fill="#d4dde7">Merge pull request #2 from Ilhe8l/fix/contribuicoes-pr...</tspan></text>
+    <text x="36" y="611" fill="#e0af68" xml:space="preserve">Ilhe8l/matiz · 26 Oct 2026  <tspan fill="#d4dde7">perf: animações do preset HyprDots mais curtas</tspan></text>
     <text x="914" y="611" text-anchor="end" fill="#9ece6a">▌</text>
   </g>
 </svg>
